@@ -9,6 +9,7 @@ public class prob2 {
         float cgpa=(s1+s2+s3)/30f;
         System.out.println(cgpa);
         //hii
+        //hello
         
     }
 }
