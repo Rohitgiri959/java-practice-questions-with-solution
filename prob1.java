@@ -5,8 +5,5 @@ class prob1{
         int n3=34;
         int sum = n1+n2+n3;
         System.out.println(sum);
-        
-
-        
     }
 }
