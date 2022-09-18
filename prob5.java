@@ -7,5 +7,5 @@ public class prob5 {
 
         
     }
-    
+    //sad
 }

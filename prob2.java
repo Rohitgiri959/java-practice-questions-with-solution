@@ -10,6 +10,7 @@ public class prob2 {
         System.out.println(cgpa);
         //hii
         //hello
-        
+        //hii
+        //fgdgf
     }
 }
