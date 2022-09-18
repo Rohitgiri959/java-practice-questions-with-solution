@@ -1,4 +1,6 @@
-import java.util.*;
+//program to concatinate the string given by user with the given string
+
+import java.util.Scanner;
 
 public class prob3 {
     public static void main(String[] args) {
