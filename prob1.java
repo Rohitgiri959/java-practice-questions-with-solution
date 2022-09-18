@@ -1,4 +1,5 @@
-class prob1{
+class prob1
+{
     public static void main(String[] args) {
         int n1=22;
         int n2=33;
